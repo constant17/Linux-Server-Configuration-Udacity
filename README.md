@@ -146,3 +146,23 @@ Ufw Docs & Digital Ocean:
  #### 11. Launch app
  - `cd /var/www/app/app`
  - `python __init__.py`
+
+#### Resources
+ 
+[1]: http://52.24.181.212/
+[2]: http://ec2-52-24-181-212.us-west-2.compute.amazonaws.com/
+[3]: https://wiki.ubuntu.com/Security/Upgrades
+[4]: https://help.ubuntu.com/lts/serverguide/automatic-updates.html
+[5]: http://blog.udacity.com/2015/03/step-by-step-guide-install-lamp-linux-apache-mysql-python-ubuntu.html
+[6]: https://help.ubuntu.com/lts/serverguide/httpd.html
+[7]: http://httpd.apache.org/docs/2.2/en/mod/core.html#virtualhost
+[8]: https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps
+[9]: https://help.ubuntu.com/community/PostgreSQL
+[10]: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04
+[11]: https://help.ubuntu.com/community/UbuntuTime
+[12]: https://help.ubuntu.com/lts/serverguide/NTP.html
+[13]: https://pypi.python.org/pypi/Glances
+[14]: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-fail2ban-on-ubuntu-14-04
+[15]: https://wiki.archlinux.org/index.php/SSH_keys
+[16]: https://help.ubuntu.com/community/UFW
+[17]: https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server
