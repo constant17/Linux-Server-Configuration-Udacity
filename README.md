@@ -110,13 +110,6 @@ Glances & Fail2ban: [1][13] & [2][14]
  - `pip install Glances`
  - `apt-get install lm-sensors`
  - `pip install PySensors`
- - `apt-get install fail2ban`
- - `cp /etc/fail2ban/jail.conf /etc/fail2ban/jail.local`
- - `vim /etc/fail2ban/jail.local`
-  - set bantime  = 900
-  - destemail = grader@localhost
- - `apt-get install sendmail iptables-persistent`
- - `service fail2ban restart`
 
 #### 8. Add grader User
  -  `sudo adduser grader`
